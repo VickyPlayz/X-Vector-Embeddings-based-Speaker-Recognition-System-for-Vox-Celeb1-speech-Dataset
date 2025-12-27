@@ -2,6 +2,9 @@
 
 This repository contains an end-to-end implementation of a Speaker Recognition system using x-vectors (Time-Delay Neural Networks) on the VoxCeleb1 dataset. The project is divided into two distinct implementations based on dataset usage.
 
+The project is inspired by the 2018 research paper "X-Vector: A Robust Deep Neural Network Embedding for Speaker Recognition" by David Snyder et al. 
+Link: https://www.danielpovey.com/files/2018_icassp_xvectors.pdf
+
 ## implementations
 
 ### 1. Prototype Implementation (10% Subset)
