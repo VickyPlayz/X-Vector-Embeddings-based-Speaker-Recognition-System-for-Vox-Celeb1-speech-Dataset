@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+# We will keep checkpoints if they are small enough, but typically we ignore them. 
+# Attempting to include them as user requested 'entire folder', 
+# but ignoring if they are too large for standard github (100MB+). 
+# Our checkpoints are likely small (~MBs).

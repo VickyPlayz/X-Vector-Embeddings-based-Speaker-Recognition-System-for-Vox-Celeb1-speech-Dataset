@@ -1,0 +1,1 @@
+An end-to-end Speaker Recognition system using x-vector TDNNs on the VoxCeleb1 dataset. Implemented in PyTorch with CUDA support, it features a complete pipeline from MFCC extraction and augmentation to a PLDA backend. Includes both a rapid prototype (10% subset) and a full-scale implementation for robust speaker verification.
